@@ -29,7 +29,7 @@ Fresh sample, policy v1 (72h, two per rolling week, quiet 21:00–08:00), Oct 3 
 
 | Cohort / channel / profile | Local time at first attempt | Start | +24h | +7d |
 |---|---|---|---|---|
-| C01 Email / Aster | Oct 3 09:00 −07:00 | Eligible: exactly72h after seed | Suppressed:24h gap | Eligible: prior run at exact7d lower boundary excluded |
+| C01 Email / Aster | Oct 3 09:00 −07:00 | Eligible: exactly 72h after seed | Suppressed:24h gap | Eligible: prior run at exact 7d lower boundary excluded |
 | C01 Email / Birch | Oct 4 01:00 +09:00 | No email consent | No email consent | No email consent |
 | C01 Push / Aster | Oct 3 09:00 −07:00 | No push consent | No push consent | No push consent |
 | C01 Push / Birch | Oct 4 01:00 +09:00 | Quiet hours | Quiet hours | Quiet hours |

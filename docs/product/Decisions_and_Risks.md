@@ -10,7 +10,7 @@
 | Offer reviewed reset with bounded Undo | Mistakes can be repaired within an explicit scope | Reset begins a fresh fictional scenario; not a production consent mechanism |
 | Preserve corrupt/unreadable bytes | Recovery must not silently erase an unseen decision | Memory can be lost on refresh; warn and require a readable reviewed reset before replacement |
 | Use fixed local offsets and a fixed clock | Reproducible timing and hand calculations | Does not model DST, timezone changes, actual delivery or calendar weeks |
-| Bound histories at30 runs and30 policies | Keep storage and validation finite | Extended exploration requires an explicit sample reset |
+| Bound histories at 30 runs and30 policies | Keep storage and validation finite | Extended exploration requires an explicit sample reset |
 
 The principal rejected alternative is a broad generic dormant-user blast. Volume is easy to demonstrate but does not establish that returning serves the learner. This prototype includes no delivery infrastructure, tracking, personal identities, live AI, real campaigns or persuasion optimization.
 

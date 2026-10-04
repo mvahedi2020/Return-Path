@@ -10,13 +10,13 @@ The chosen approach gives each invitation a concrete unfinished goal and direct 
 
 A broad dormant-user blast with generic “we miss you” copy was rejected. It treats absence as permission and makes volume an easy proxy for success. Return Path treats a clear suppression explanation as a product outcome worth inspecting.
 
-Juniper opted out. Moss finished the goal. Neither needs a return invitation in this scenario. Birch consented to Push, prefers Push, and is at01:00 local when the sample starts: the quiet-hours rule protects that time. Clover permits Email but prefers In-app, so consent alone is insufficient to justify switching channels.
+Juniper opted out. Moss finished the goal. Neither needs a return invitation in this scenario. Birch consented to Push, prefers Push, and is at 01:00 local when the sample starts: the quiet-hours rule protects that time. Clover permits Email but prefers In-app, so consent alone is insufficient to justify switching channels.
 
 ## A complete bounded working journey
 
 Choose a cohort, inspect the dormant reason, saved goal and preferences, read the value-led message and open its exact destination preview. Select a channel and sample start. Review six local attempts before confirmation. The resulting timeline explains eligible and suppressed outcomes, with the scope and accepted policy version retained.
 
-The default C01 Email run makes Aster eligible at Oct3 16:00 UTC and Oct10 16:00 UTC; the Oct4 attempt is suppressed by72-hour spacing. Birch is suppressed by missing Email consent throughout. No messages are sent. Repeating the run cannot revive any previously accepted attempt. A policy revision has its own preview/cancel/accept interaction; history remains attached to the policy that produced it.
+The default C01 Email run makes Aster eligible at Oct3 16:00 UTC and Oct10 16:00 UTC; the Oct4 attempt is suppressed by 72-hour spacing. Birch is suppressed by missing Email consent throughout. No messages are sent. Repeating the run cannot revive any previously accepted attempt. A policy revision has its own preview/cancel/accept interaction; history remains attached to the policy that produced it.
 
 ## Recovery is part of the product
 
