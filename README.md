@@ -1,5 +1,7 @@
 # Return Path
 
+[Read the formatted product documents](https://mvahedi2020.github.io/Return-Path/docs/index.html).
+
 **A useful reason to return, with room to be left alone.** Return Path is an original Northstar product prototype for reviewing dormant-user re-entry. Inspect a saved goal, preview its message and direct destination, then simulate a local timeline governed by consent, preference, quiet hours and frequency.
 
 [Open the demo](https://mvahedi2020.github.io/Return-Path/) · [Product case](docs/product/Case_Study.md) · [Try the sample](docs/product/Sample_Walkthrough.md) · [Evidence & limits](docs/product/Validation.md)
