@@ -16,6 +16,8 @@ Mo owns product and program direction. AI assisted implementation and software v
 
 [Product brief](docs/product/Product_Brief.md) · [PRD and requirement mapping](docs/product/PRD.md) · [Sample contract](docs/product/Sample_Contract.md) · [Decisions and risks](docs/product/Decisions_and_Risks.md)
 
+Product tradeoff: attention limits can suppress an otherwise eligible return invitation. The next investment depends on useful goal continuation and acceptable contact, with fatigue and opt-out guardrails. See the [case study](docs/product/Case_Study.md) for the proposed comparison and investment criteria.
+
 ## Run and reproduce the software checks
 
 Use Node24 (see `.nvmrc`). The dependency versions and lockfile are pinned. Only port4192 is used; the static Pages base is `/Return-Path/`.
