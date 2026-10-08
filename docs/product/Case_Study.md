@@ -1,5 +1,9 @@
 # Return Path — the choice to leave room
 
+Decide whether to invite someone back to an unfinished goal. Respect their contact preferences and timing limits, and explain when they should be left alone. Invitations are previews; nothing is sent.
+
+**The product choice:** Offer a useful next step while respecting the person’s permission and attention. [Try the sample](https://mvahedi2020.github.io/Return-Path/) · [Follow the walkthrough](Sample_Walkthrough.md).
+
 A useful return experience begins with the learner's purpose. Dormancy alone says little about whether someone wants an invitation: a saved draft, a busy week, an explicit opt-out and a finished goal need different decisions.
 
 Mo's product and program direction frames this prototype around one question: **what value does returning offer, and when should the product leave someone alone?** AI assisted implementation and software verification. All Northstar records and copy are original fictional examples. No employer result, human research finding or retention improvement is claimed.

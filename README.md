@@ -2,7 +2,9 @@
 
 [Read the formatted product documents](https://mvahedi2020.github.io/Return-Path/docs/index.html).
 
-**A useful reason to return, with room to be left alone.** Return Path is an original Northstar product prototype for reviewing dormant-user re-entry. Inspect a saved goal, preview its message and direct destination, then simulate a local timeline governed by consent, preference, quiet hours and frequency.
+Decide whether to invite someone back to an unfinished goal. Respect their contact preferences and timing limits, and explain when they should be left alone. Invitations are previews; nothing is sent. All records in this demo are fictional.
+
+**Try it:** Inspect Aster’s unfinished walking plan, open its return destination, and preview the invitation timeline. [Open the demo](https://mvahedi2020.github.io/Return-Path/) · [Follow the walkthrough](docs/product/Sample_Walkthrough.md).
 
 [Open the demo](https://mvahedi2020.github.io/Return-Path/) · [Product case](docs/product/Case_Study.md) · [Try the sample](docs/product/Sample_Walkthrough.md) · [Evidence & limits](docs/product/Validation.md)
 
