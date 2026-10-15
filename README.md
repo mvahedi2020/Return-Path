@@ -6,6 +6,8 @@ Decide whether to invite someone back to an unfinished goal. Respect their conta
 
 **Try it:** Inspect Aster’s unfinished walking plan, open its return destination, and preview the invitation timeline. [Open the demo](https://mvahedi2020.github.io/Return-Path/) · [Follow the walkthrough](docs/product/Sample_Walkthrough.md).
 
+**Experience connection:** My Mabrosi work included re-engagement through email, push notifications and in-app prompts. This example focuses on the value of returning and the conditions under which contact should be suppressed. [Read the decision to challenge](docs/product/Case_Study.md#experience-and-decision).
+
 [Open the demo](https://mvahedi2020.github.io/Return-Path/) · [Product case](docs/product/Case_Study.md) · [Try the sample](docs/product/Sample_Walkthrough.md) · [Evidence & limits](docs/product/Validation.md)
 
 The PM choice is to offer a small continuation of an unfinished goal before considering an invitation. A broad generic dormant-user blast was rejected because absence does not imply permission or useful value. Aster can choose the final stop in a saved walking plan; Juniper’s opt-out and Moss’s completed goal mean they should be left alone.

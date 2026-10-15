@@ -4,6 +4,12 @@ Decide whether to invite someone back to an unfinished goal. Respect their conta
 
 **The product choice:** Offer a useful next step while respecting the person’s permission and attention. [Try the sample](https://mvahedi2020.github.io/Return-Path/) · [Follow the walkthrough](Sample_Walkthrough.md).
 
+## Experience and decision
+
+My Mabrosi work included re-engagement through email, push notifications and in-app prompts. This example focuses on the value of returning and the conditions under which contact should be suppressed. This is a separate fictional portfolio exercise; its records, rules and results do not reproduce an employer system.
+
+**Decision to challenge:** Does the unfinished goal justify an invitation? Permission and a suitable time are necessary, but neither makes a weak return experience valuable. Leaving someone alone can be the right product choice.
+
 A useful return experience begins with the learner's purpose. Dormancy alone says little about whether someone wants an invitation: a saved draft, a busy week, an explicit opt-out and a finished goal need different decisions.
 
 Mo's product and program direction frames this prototype around one question: **what value does returning offer, and when should the product leave someone alone?** AI assisted implementation and software verification. All Northstar records and copy are original fictional examples. No employer result, human research finding or retention improvement is claimed.
