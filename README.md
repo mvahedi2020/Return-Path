@@ -41,3 +41,7 @@ npm run preview
 Open `http://127.0.0.1:4192/Return-Path/`. Stop a manual preview server before `test:e2e`, which starts and stops its own production preview on the same port. Linux CI installs Chromium with system dependencies. Build copies the product documents into `dist/docs` for the demo reviewer links. Generated output and browser artifacts are ignored; the runtime guard rejects unexpected public runtime configuration and tracked generated/environment files.
 
 The GitHub workflow **Verify and publish demo** uses pinned Actions and runs locked install, lint, domain/storage tests, strict types/build, dependency audit and production browser checks before uploading the static Pages artifact. Exact observed checks and release gates belong to [Validation](docs/product/Validation.md).
+
+## Typography
+
+The interface and product reading guide use SF Pro Rounded for body text and Aptos Display for headings. Only Aptos, Aptos Display, SF Pro, SF Pro Rounded and Calibri are requested. Availability depends on the fonts installed on the viewing device; native Apple font aliases select SF Pro. No font files are bundled or downloaded.
